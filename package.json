@@ -1,0 +1,13 @@
+{
+  "name": "docs-generator",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "tsing <mr@jianqing.wang>",
+  "license": "MIT",
+  "dependencies": {
+    "github-markdown-css": "/Users/tsing2.8.0",
+    "markdown-toc": "/Users/tsing1.1.0",
+    "mkdirp": "/Users/tsing0.5.1",
+    "remarkable": "/Users/tsing1.7.1"
+  }
+}
